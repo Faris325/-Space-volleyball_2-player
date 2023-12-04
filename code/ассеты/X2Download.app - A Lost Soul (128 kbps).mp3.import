@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b6n5atcplygyb"
+path="res://.godot/imported/X2Download.app - A Lost Soul (128 kbps).mp3-b05dc78640fed80f4c66e05055742eaf.mp3str"
+
+[deps]
+
+source_file="res://ассеты/X2Download.app - A Lost Soul (128 kbps).mp3"
+dest_files=["res://.godot/imported/X2Download.app - A Lost Soul (128 kbps).mp3-b05dc78640fed80f4c66e05055742eaf.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

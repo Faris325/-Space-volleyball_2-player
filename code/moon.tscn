@@ -1,0 +1,259 @@
+[gd_scene load_steps=62 format=3 uid="uid://dov4gx8xdbu1k"]
+
+[ext_resource type="Texture2D" uid="uid://cd4jjkf1oqep6" path="res://ассеты/луна/1.png" id="1_eifgs"]
+[ext_resource type="Texture2D" uid="uid://d3bvv5vbwwmsn" path="res://ассеты/луна/2.png" id="2_c72xx"]
+[ext_resource type="Texture2D" uid="uid://cn4fvorkuuew5" path="res://ассеты/луна/3.png" id="3_0pljd"]
+[ext_resource type="Texture2D" uid="uid://b0j06pwodudh1" path="res://ассеты/луна/4.png" id="4_mqfb1"]
+[ext_resource type="Texture2D" uid="uid://ducxgokys0ysb" path="res://ассеты/луна/5.png" id="5_7l1et"]
+[ext_resource type="Texture2D" uid="uid://d1v8napuyxopu" path="res://ассеты/луна/6.png" id="6_ybbar"]
+[ext_resource type="Texture2D" uid="uid://ctgbwwj7ynkf4" path="res://ассеты/луна/7.png" id="7_bwad4"]
+[ext_resource type="Texture2D" uid="uid://dhio8gra4f73a" path="res://ассеты/луна/8.png" id="8_gpnbm"]
+[ext_resource type="Texture2D" uid="uid://bguh4kcj1a8dm" path="res://ассеты/луна/9.png" id="9_umb6u"]
+[ext_resource type="Texture2D" uid="uid://dyltui60unubg" path="res://ассеты/луна/10.png" id="10_apuwj"]
+[ext_resource type="Texture2D" uid="uid://c54xuha3qk7io" path="res://ассеты/луна/11.png" id="11_2r2y2"]
+[ext_resource type="Texture2D" uid="uid://cf6c42niwintg" path="res://ассеты/луна/12.png" id="12_muepv"]
+[ext_resource type="Texture2D" uid="uid://c1rys82isrto3" path="res://ассеты/луна/13.png" id="13_bfvan"]
+[ext_resource type="Texture2D" uid="uid://bfdiljky0gc28" path="res://ассеты/луна/14.png" id="14_wxhij"]
+[ext_resource type="Texture2D" uid="uid://ctaj2j54b7rm0" path="res://ассеты/луна/15.png" id="15_70dhi"]
+[ext_resource type="Texture2D" uid="uid://djy7esukdj4ks" path="res://ассеты/луна/16.png" id="16_etu0b"]
+[ext_resource type="Texture2D" uid="uid://pjqloqnf0pnr" path="res://ассеты/луна/17.png" id="17_v0sho"]
+[ext_resource type="Texture2D" uid="uid://bcs06h0q2q2pw" path="res://ассеты/луна/18.png" id="18_j5gnf"]
+[ext_resource type="Texture2D" uid="uid://du14a8y06txg4" path="res://ассеты/луна/19.png" id="19_w86yc"]
+[ext_resource type="Texture2D" uid="uid://gxf8m8f8a53q" path="res://ассеты/луна/20.png" id="20_8jdgy"]
+[ext_resource type="Texture2D" uid="uid://bimsjb0od7eyu" path="res://ассеты/луна/21.png" id="21_uos3i"]
+[ext_resource type="Texture2D" uid="uid://dv4w1m7dcycdu" path="res://ассеты/луна/22.png" id="22_je0vm"]
+[ext_resource type="Texture2D" uid="uid://b3xwho1fre8ng" path="res://ассеты/луна/23.png" id="23_w8fq7"]
+[ext_resource type="Texture2D" uid="uid://dm0mc42ll341n" path="res://ассеты/луна/24.png" id="24_b0eah"]
+[ext_resource type="Texture2D" uid="uid://ciwxxtpynqypr" path="res://ассеты/луна/25.png" id="25_fond2"]
+[ext_resource type="Texture2D" uid="uid://bq7vehoaativ6" path="res://ассеты/луна/26.png" id="26_m0ut4"]
+[ext_resource type="Texture2D" uid="uid://bc4kpni52cgqn" path="res://ассеты/луна/27.png" id="27_057ig"]
+[ext_resource type="Texture2D" uid="uid://cekmuc7egefnh" path="res://ассеты/луна/28.png" id="28_2weob"]
+[ext_resource type="Texture2D" uid="uid://dtbdwrhfxu3iw" path="res://ассеты/луна/29.png" id="29_2pq0q"]
+[ext_resource type="Texture2D" uid="uid://038b5mqymevb" path="res://ассеты/луна/30.png" id="30_xgxrt"]
+[ext_resource type="Texture2D" uid="uid://bag3mm4qn3wtq" path="res://ассеты/луна/31.png" id="31_gapqh"]
+[ext_resource type="Texture2D" uid="uid://b4r3cvswivkmk" path="res://ассеты/луна/32.png" id="32_62oog"]
+[ext_resource type="Texture2D" uid="uid://bt43jsvu6n6h6" path="res://ассеты/луна/33.png" id="33_cbpy3"]
+[ext_resource type="Texture2D" uid="uid://d21rr36wh65xw" path="res://ассеты/луна/34.png" id="34_7b52n"]
+[ext_resource type="Texture2D" uid="uid://or76wn6osfb3" path="res://ассеты/луна/35.png" id="35_6fthm"]
+[ext_resource type="Texture2D" uid="uid://b2cwuykh5uo42" path="res://ассеты/луна/36.png" id="36_mcdf1"]
+[ext_resource type="Texture2D" uid="uid://bwilcj7ix1d3s" path="res://ассеты/луна/37.png" id="37_jeruq"]
+[ext_resource type="Texture2D" uid="uid://n7unwhx7ow01" path="res://ассеты/луна/38.png" id="38_twh2p"]
+[ext_resource type="Texture2D" uid="uid://mw3axevl135v" path="res://ассеты/луна/39.png" id="39_ykunx"]
+[ext_resource type="Texture2D" uid="uid://bvk4dx4gdyua2" path="res://ассеты/луна/40.png" id="40_i8fic"]
+[ext_resource type="Texture2D" uid="uid://bgtlwiksdsn78" path="res://ассеты/луна/41.png" id="41_rdq26"]
+[ext_resource type="Texture2D" uid="uid://cgol03s3rlyip" path="res://ассеты/луна/42.png" id="42_y0f1v"]
+[ext_resource type="Texture2D" uid="uid://cedofcjovl4jy" path="res://ассеты/луна/43.png" id="43_4s2pf"]
+[ext_resource type="Texture2D" uid="uid://dk557uvud72a4" path="res://ассеты/луна/44.png" id="44_5tv07"]
+[ext_resource type="Texture2D" uid="uid://b4a21pwmveuk0" path="res://ассеты/луна/45.png" id="45_0p3pi"]
+[ext_resource type="Texture2D" uid="uid://cvprunnju2tlb" path="res://ассеты/луна/46.png" id="46_xqyr4"]
+[ext_resource type="Texture2D" uid="uid://d4iqpbupm21b8" path="res://ассеты/луна/47.png" id="47_45bnt"]
+[ext_resource type="Texture2D" uid="uid://bkmn6ld2yb545" path="res://ассеты/луна/48.png" id="48_0cw1p"]
+[ext_resource type="Texture2D" uid="uid://botewnrgrw7aj" path="res://ассеты/луна/49.png" id="49_0rh8o"]
+[ext_resource type="Texture2D" uid="uid://telcy8pmsr44" path="res://ассеты/луна/50.png" id="50_1pts3"]
+[ext_resource type="Texture2D" uid="uid://cidqqsjnmb45p" path="res://ассеты/луна/51.png" id="51_4bcx2"]
+[ext_resource type="Texture2D" uid="uid://c68h7vlvykqee" path="res://ассеты/луна/52.png" id="52_ib33x"]
+[ext_resource type="Texture2D" uid="uid://ct1sellbypx1k" path="res://ассеты/луна/53.png" id="53_ir41t"]
+[ext_resource type="Texture2D" uid="uid://gy8dtsq2e4m0" path="res://ассеты/луна/54.png" id="54_1hqcb"]
+[ext_resource type="Texture2D" uid="uid://colgdoj3g3r40" path="res://ассеты/луна/55.png" id="55_oohgs"]
+[ext_resource type="Texture2D" uid="uid://bp6u1g78bm6of" path="res://ассеты/луна/56.png" id="56_c4kt1"]
+[ext_resource type="Texture2D" uid="uid://wpmoc4qyndtx" path="res://ассеты/луна/57.png" id="57_ldr8y"]
+[ext_resource type="Texture2D" uid="uid://c334dd1hjhbt3" path="res://ассеты/луна/58.png" id="58_4vs6o"]
+[ext_resource type="Texture2D" uid="uid://ckfuon4ix5pk7" path="res://ассеты/луна/59.png" id="59_kkw1d"]
+[ext_resource type="Texture2D" uid="uid://bj0p6qaqxvnk0" path="res://ассеты/луна/60.png" id="60_i7cf7"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_1t0l8"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_eifgs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_c72xx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_0pljd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_mqfb1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_7l1et")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_ybbar")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_bwad4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_gpnbm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_umb6u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_apuwj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_2r2y2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_muepv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_bfvan")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_wxhij")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_70dhi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_etu0b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_v0sho")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_j5gnf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_w86yc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_8jdgy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_uos3i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_je0vm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_w8fq7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_b0eah")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_fond2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_m0ut4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_057ig")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_2weob")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_2pq0q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_xgxrt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_gapqh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_62oog")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_cbpy3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_7b52n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_6fthm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_mcdf1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_jeruq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_twh2p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_ykunx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_i8fic")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_rdq26")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_y0f1v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_4s2pf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_5tv07")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_0p3pi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_xqyr4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_45bnt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_0cw1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_0rh8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_1pts3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_4bcx2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_ib33x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_ir41t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_1hqcb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_oohgs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_c4kt1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_ldr8y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_4vs6o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_kkw1d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_i7cf7")
+}],
+"loop": true,
+"name": &"default",
+"speed": 8.0
+}]
+
+[node name="moon" type="Node2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(672, 362)
+scale = Vector2(6.46875, 6.46875)
+sprite_frames = SubResource("SpriteFrames_1t0l8")
+autoplay = "default"
+frame_progress = 0.933694

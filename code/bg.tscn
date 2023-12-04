@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://bx8go05ex48ai"]
+
+[ext_resource type="Script" path="res://BG.gd" id="1_bjp0e"]
+[ext_resource type="Texture2D" uid="uid://blxt2e5n0hmo0" path="res://ассеты/bg_space_seamless_1.png" id="2_ypjki"]
+
+[node name="BG" type="ParallaxBackground"]
+script = ExtResource("1_bjp0e")
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="."]
+motion_mirroring = Vector2(1280, 0)
+
+[node name="BgSpaceSeamless1" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(640, 360.5)
+scale = Vector2(1.33333, 1.33518)
+texture = ExtResource("2_ypjki")
